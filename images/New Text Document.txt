@@ -1,0 +1,2 @@
+<img src="<?php echo base_url(); ?>images/car.png" class="img-responsive">
+951ef6b5d17ef4fd42d11102fb36b6bec2eae688
