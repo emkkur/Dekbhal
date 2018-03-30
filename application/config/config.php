@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/adc4.0jp/';
+$config['base_url'] = 'http://35.196.227.67/Dekbhal/';
 
 /*
 |--------------------------------------------------------------------------
